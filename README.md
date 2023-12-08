@@ -1,2 +1,10 @@
-# Shoreline_Timex
-This research aims to provide guidance for the identification of the optimum temporal resolution needed for processing Timex images for shoreline detection. To achieve this, timelapse images are published here
+# Timex Interval Sensitivity Study
+Remote video imagery using shoreline edge detection is widely used in coastal monitoring in order to acquire measurements of nearshore and swash processes. Some of these systems have very limited flexibility due to their rigid structures and require considerable investment in hardware. As such, there is a need for an autonomous low-cost system (~€500) that can be rapidly deployed in the field, while still producing the outcomes required for coastal monitoring. This research presents a sensitivity analysis of time-lapse intervals for two low-cost cameras located in a remote coastal area, overlooking a dissipative beach-dune system. The analysis shows that RMSD in the detected shoreline is similar to other studies for intervals ranging between 1 second and 30 seconds (i.e., RMSDmax for Camera 1 = 2.8 m and Camera 2 = 1.3 m). The increase of the sampling interval from 1 s to 30 s is shown to have no significant adverse effect on the precision of shoreline detection. The research found that the limitations of battery life and memory storage substantially decreases when sampling intervals increase without an effect on the data quality. This also has a positive effect for low-cost systems and removes the requirement for external battery and memory storage. On the systems used, the battery life increased from ~10 days to ~100 days when the sampling interval was increased from 1 to 5 s, As such, the current standard of producing Timex images from 1 s sampling intervals over 10 minutes can be changed depending on the application and requirements needed for analysis. 
+
+## Usage
+### Overview
+This stidy builds upon the foundation laid by [CIRN](https://github.com/Coastal-Imaging-Research-Network).
+The creation of timestack images, georectification, and shoreline detection can be achieved with the [Quantitative Coastal Imaging Toolbox](https://github.com/Coastal-Imaging-Research-Network/CIRN-Quantitative-Coastal-Imaging-Toolbox). 
+
+### Timelapse Images
+The images captured by the timelapse camera can be found here.
