@@ -7,4 +7,4 @@ This stidy builds upon the foundation laid by [CIRN](https://github.com/Coastal-
 The creation of timestack images, georectification, and shoreline detection can be achieved with the [Quantitative Coastal Imaging Toolbox](https://github.com/Coastal-Imaging-Research-Network/CIRN-Quantitative-Coastal-Imaging-Toolbox). 
 
 ### Timelapse Images
-The images captured by the timelapse camera can be found here.
+The images captured by the timelapse camera can be found [here](Timelapse_Images).
