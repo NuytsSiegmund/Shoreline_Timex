@@ -3,7 +3,7 @@ Remote video imagery using shoreline edge detection is widely used in coastal mo
 
 ## Usage
 ### Overview
-This stidy builds upon the foundation laid by [CIRN](https://github.com/Coastal-Imaging-Research-Network).
+This study builds upon the foundation laid by [CIRN](https://github.com/Coastal-Imaging-Research-Network).
 The creation of timestack images, georectification, and shoreline detection can be achieved with the [Quantitative Coastal Imaging Toolbox](https://github.com/Coastal-Imaging-Research-Network/CIRN-Quantitative-Coastal-Imaging-Toolbox). 
 
 ### Timelapse Images
